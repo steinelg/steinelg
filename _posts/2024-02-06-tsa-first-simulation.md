@@ -1,10 +1,6 @@
 ## TimeSeriesAnalysis: Your first simulation
 
-
 ---
-
-### Example 
-
 
 Defining the models
 
@@ -64,4 +60,4 @@ Plotting the result:
 
 which give the following plot:
 
-[Contribution guidelines for this project](figs/gettingStarted_fig1.png)
+![Figure of time-series added by example](figs/gettingStarted_fig1.png)
