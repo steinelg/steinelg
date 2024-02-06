@@ -27,6 +27,10 @@ Defining the models
             sim.ConnectModels(pidModel,processModel,(int)INDEX.FIRST);
 ```
 
+The above code creates the following "plant":
+![Unit model layout in plant](https://steinelg.github.io/steinelg/figs/gettingStarted_fig2.png)
+
+
 Create a synthetic set of input data time-series, which will be simulated over
 ```csharp
             double timeBase_s = 1;
