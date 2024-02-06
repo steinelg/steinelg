@@ -60,4 +60,4 @@ Plotting the result:
 
 which give the following plot:
 
-![Figure of time-series added by example](figs/gettingStarted_fig1.png)
+![Figure of time-series added by example](/figs/gettingStarted_fig1.png)
