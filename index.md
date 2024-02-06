@@ -1,5 +1,2 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am control engineer based in Trondheim, Norway. 
+Here I plan to share examples related to open-sourced software I am involved with. 
